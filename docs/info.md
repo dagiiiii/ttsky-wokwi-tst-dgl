@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-nice
+Simple net of gates and flip-flop, converting input bus, clock and reset signals to 7-seg display signals
 
 ## How to test
 
-play
+change in0-in7, clock and reset and observe the 7-seg display
 
 ## External hardware
 
-no
+some stuff to generate input, clk, rst signals and some stuff to observe the 7-seg display signals
